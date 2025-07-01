@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://embedtv.digital/assets/images/band.png" group-title="Canal Aberto",Band
+https://aovivo.doozytv.com.br/31025556/10161894/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://embedtv.digital/assets/images/bandnews.png" group-title="Canal Aberto",Band News
+https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://piratatvs.com/wp-content/uploads/2022/04/redetv-768x432.png" group-title="Canal Aberto",Rede TV
+https://aovivo.doozytv.com.br/31025556/10161899/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://embedtv.digital/assets/images/record.png" group-title="Canal Aberto",Record
+https://aovivo.doozytv.com.br/31025556/10161884/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/11/novo-logo-record-news-png.png" group-title="Canal Aberto",Record News
+https://aovivo.doozytv.com.br/31025556/10161933/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://embedtv.digital/assets/images/globosp.png" group-title="Canal Aberto",Globo
+https://live-01.edge-vivo-vcp-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLXZjcC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NTEzMzg2NDgsImlhdCI6MTc1MTI1MjI0OCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI4NWQ3M2E1Yi1lZmI1LTQ2MjItODA5Zi00NTEyNWE5YjAzN2UiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXJpYi9wbGF5bGlzdC5tM3U4In0.ugxBHFFLITq9Xfvq0XnRne3IU0CZ5lKIfrh96cjNXjYDdhg55uXkOGzOtwP4K4qf3LQri7iTSa5eJ8728p33VRxTL-ISMBUIyAMZ0f7FAWLhSh33ra2e82j2zjpofeRUeMD0uqZoEwVeE79dTIpgzOtbBJuIKv2giypI2j0qZvtbCa1bJ2ACMubzaiUU7DMAEhaGQC9Wg3i560V81y41JuKeXO4AJm3hkC-S3dv74COSshhfLnf9vgFJHSercTBcnfsye8v8Whb2be5tfMyYOs4KIao0XIvld6qqk-K_zR2pwwKXrVGbctpJwLQtgM6zWvsBZuj-JBVBGYARXzJPOg/live/f(i=2)/globo-rib/globo-rib-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jpnews-horizontal-branco.png" group-title="Canal Aberto",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Aberto" tvg-logo="https://embedtv.digital/assets/images/sbt.png" group-title="Canal Aberto",SBT
+https://02.multicanaistv.win/sbt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos" tvg-logo="https://embedtv.digital/assets/images/cartoonnetwork.png" group-title="Desenhos",Cartoon NetWork
+https://01-mcteteu.shop/secret_key/06290095b6256fa53a69d4cc4f86711e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos" tvg-logo="https://embedtv.digital/assets/images/discoverykids.png" group-title="Desenhos",Discovery Kids 
+https://01-mcteteu.shop/secret_key/ff126f4acc6e045e284664bbac643f9e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbuBJSz2d0gABEl6oH7_ULbFhjBwvBGswLA&s" group-title="Outros",Movie Sphere
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/espn.png" group-title="Outros",ESPN
+https://01.multicanaistv.win/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/espn2.png" group-title="Outros",ESPN 2
+https://01-mcteteu.shop/secret_key/b92f6c84418cda3843223b3b148d7b6b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/espn3.png" group-title="Outros",ESPN 3
+https://02.multicanaistv.win/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/cnnbrasil.png" group-title="Outros",CNN Brasil
+https://01-mcteteu.shop/secret_key/52dd3358e877a7b70838d4233d0309c8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/space.png" group-title="Outros",Space
+https://01.multicanaistv.win/space/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/sportv.png" group-title="Outros",Sport TV
+https://01-mcteteu.shop/secret_key/f48d7f401fad4cf074ae38f966a00ae9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/sportv2.png" group-title="Outros",Sport TV2
+https://01-mcteteu.shop/secret_key/a876517e3bfaa0e760f04b60ce34b678.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/cinemax.png" group-title="Outros",Cine Max
+https://01-mcteteu.shop/secret_key/b94682a14fd3e0d198e2d96f5857286a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/discoveryturbo.png" group-title="Outros",Discovery Turbo
+https://01-mcteteu.shop/secret_key/8e0fe815216134d6efdbdf469a4807c6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/history2.png" group-title="Outros",H2
+https://01-mcteteu.shop/secret_key/5f1a9763a253da8c99b667a985b8edd6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/history.png" group-title="Outros",History
+https://01-mcteteu.shop/secret_key/2d5e7ab53bb6a97c26388b75b8425d96.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/hbo.png" group-title="Outros",HBO
+https://01-mcteteu.shop/secret_key/b5e5549f67a1e8f1c46185b1ef21d585.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="Outros",PREMIERE1
+https://01-mcteteu.shop/secret_key/8928f237c107e18b84be6c2f08786e40.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="Outros",PREMIERE2
+https://01-mcteteu.shop/secret_key/3b8288e18cf06f252bfd319f833b2d9c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/discoverychannel.png" group-title="Outros",DISCOVERY CHANNEL
+https://01-mcteteu.shop/secret_key/6767ae857021896a2357ebea3e5768de.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/megapix.png" group-title="Outros",MEGAPIX
+https://01-mcteteu.shop/secret_key/89d367d8d706648daf3add1643c87dd6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/fx.png" group-title="Outros",FX 
+https://01-mcteteu.shop/secret_key/ac068abf83d4f728b989774fad094baa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Outros" tvg-logo="https://embedtv.digital/assets/images/cazetv.png" group-title="Outros",Cazé TV 
+https://01-mcteteu.shop/secret_key/c1a741d915f4de7a3b4792209982a93d.m3u8
